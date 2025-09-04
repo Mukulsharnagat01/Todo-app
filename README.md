@@ -32,24 +32,24 @@ CSS Modules / plain CSS
  todo-app/                                                                                       
 ├─ public/                                                                                       
 │ └─ vite.svg                                                                                    
-├─ src/
-│ ├─ assets/
-│ │ └─ react.svg
-│ ├─ components/
-│ │ ├─ InputContainer.jsx
-│ │ ├─ Todo.jsx
-│ │ ├─ TodoContainer.jsx
-│ ├─ App.css
-│ ├─ App.jsx
-│ ├─ index.css
-│ ├─ main.jsx
-├─ .gitignore
-├─ README.md
-├─ eslint.config.js
-├─ index.html
-├─ package-lock.json
-├─ package.json
-└─  vite.config.js
+├─ src/                                                                                          
+│ ├─ assets/                                                                                     
+│ │ └─ react.svg                                                                                 
+│ ├─ components/                                                                                 
+│ │ ├─ InputContainer.jsx                                                                        
+│ │ ├─ Todo.jsx                                                                                  
+│ │ ├─ TodoContainer.jsx                                                                         
+│ ├─ App.css                                                                                     
+│ ├─ App.jsx                                                                                     
+│ ├─ index.css                                                                                   
+│ ├─ main.jsx                                                                                    
+├─ .gitignore                                                                                    
+├─ README.md                                                                                     
+├─ eslint.config.js                                                                              
+├─ index.html                                                                                    
+├─ package-lock.json                                                                             
+├─ package.json                                                                                  
+└─  vite.config.js                                                                               
 
 # Customization ideas
 
