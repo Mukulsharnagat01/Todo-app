@@ -6,7 +6,7 @@ A small, modern Todo application built with React and Vite. It demonstrates a cl
 
 # Live demo
 
-( localhost:5173/ )
+( http://localhost:5173/ )
 
 # Features
 
