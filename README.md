@@ -29,9 +29,9 @@ CSS Modules / plain CSS
 
  # Folder structure (recommended)
 
- todo-app/
-├─ public/
-│ └─ vite.svg
+ todo-app/                                                                                       
+├─ public/                                                                                       
+│ └─ vite.svg                                                                                    
 ├─ src/
 │ ├─ assets/
 │ │ └─ react.svg
